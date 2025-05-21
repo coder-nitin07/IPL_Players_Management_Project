@@ -1,7 +1,7 @@
 IPL Player Management API Project
 
 # Overview:
-        A restful API Project to manage IPL Players data and I built with Node JS, Express JS and mongoDB. Supports CRUD operations with pagination, sorting, search, JWT authentication and role based access control etc.
+        A restful API Project to manage IPL Players data and I built with Node JS, Express JS and mongoDB. Supports CRUD operations with pagination, sorting, search, JWT authentication, role based access control etc and secure image upload via cloudinary.
 
 # Feature: 
         # CRUD opeations (Admin only).
@@ -13,7 +13,12 @@ IPL Player Management API Project
         # Proper error handling with proper status codes
 
 # Technologies: 
-        # Node JS, Express JS, MongoDB, Cloudinary
+        # Node JS
+        # Express JS 
+        # MongoDB 
+        # Cloudinary
+        # Joi
+        # JWT
 
 
 # Steup:
